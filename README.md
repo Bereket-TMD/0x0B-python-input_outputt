@@ -1,1 +1,4 @@
-# 0x0B-python-input_output
+# 0x0B. Python - Input/Output
+An introductory project into I/O in Python3
+## File Descriptions
+## mikiyas Bekele
